@@ -42,6 +42,7 @@
 
 
 <h3>:zap: Github Stats</h3>
+<h4><i>Not including private repo contribution</i></h4>
 <img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" />
 
 
