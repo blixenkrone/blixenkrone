@@ -42,7 +42,7 @@
 
 
 <h3>:zap: Github Stats</h3>
-<img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" />
+<img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" />
 
 
 [website]: https://blixenkrone.dev
