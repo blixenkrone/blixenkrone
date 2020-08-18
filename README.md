@@ -1,4 +1,4 @@
-### Hey I'm [Simon Blixenkrone][website] 👋
+### Hey I'm [Simon][website] 👋
 
 - 🔭 I’m currently doing most of my stuff in Go!
 - 🏡 I’m from && living in Copenhagen.
