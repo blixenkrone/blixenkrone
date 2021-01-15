@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing most of my stuff in Go!
 - 🏡 I’m from && living in Copenhagen.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play bass and drums.
 
 ### Connect with me:
