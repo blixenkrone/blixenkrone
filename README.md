@@ -2,18 +2,14 @@
 
 🏡 I’m from && living in Copenhagen.
 <br />
-🥅 Goals:
-    - Write even more code
-    - Learn even more stuff
-    - Contribute more to Open Source projects
-    - Do more of what I love
+🥅 Goals: Write even more code, learn even more stuff,contribute more to Open Source projects, do more of what I love.
 <br />
 ⚡ I also play bass and drums
 <br />
 
-[<img align="left" alt="blixenkrone | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="blixenkrone.dev" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="blixenkrone | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="blixenkrone | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="blixenkrone.dev" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="blixenkrone | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
