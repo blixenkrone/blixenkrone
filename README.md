@@ -1,14 +1,19 @@
 ### Hey I'm [Simon][website] 👋
 
 🏡 I’m from && living in Copenhagen.
+<br />
 🥅 Goals:
     - Write even more code
     - Learn even more stuff
     - Contribute more to Open Source projects
     - Do more of what I love
-- ⚡ I also play bass and drums.
+<br />
+⚡ I also play bass and drums
+<br />
 
-[![Connect with me](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
+[<img align="left" alt="blixenkrone | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="blixenkrone.dev" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blixenkrone | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
