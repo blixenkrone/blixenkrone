@@ -7,10 +7,11 @@
 ⚡ I also play bass and drums
 <br />
 
+### Connect with me
+
 [<img alt="blixenkrone | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="blixenkrone.dev" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="blixenkrone | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img alt="blixenkrone | Twitter" width="44px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />][twitter]
 <br />
 
 [![Ask me about](https://skillicons.dev/icons?i=aws,bash,docker,dynamodb,git,githubactions,go,kubernetes,md,nginx,postgres,raspberrypi,js,ts,redis)](https://skillicons.dev)
