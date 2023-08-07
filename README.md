@@ -1,23 +1,19 @@
 ### Hey I'm [Simon][website] 👋
 
-- 🔭 I’m currently doing most of my stuff in Go!
-- 🏡 I’m from && living in Copenhagen.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play bass and drums.
+🏡 I’m from && living in Copenhagen.
+🥅 Goals:
+    - Write even more code
+    - Learn even more stuff
+    - Contribute more to Open Source projects
+    - Do more of what I love
+- ⚡ I also play bass and drums.
 
-### Connect with me:
-
-[<img align="left" alt="blixenkrone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="blixenkrone.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="blixenkrone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![Connect with me](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
 
 <br />
 
 [![Ask me about](https://skillicons.dev/icons?i=aws,bash,docker,dynamodb,git,githubactions,go,kubernetes,md,nginx,postgres,raspberrypi,js,ts,redis)](https://skillicons.dev)
 
-<br />
-<br />
-<br />
 <br />
 
 
