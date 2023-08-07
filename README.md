@@ -9,7 +9,7 @@
 
 ### Connect with me
 
-[<img alt="blixenkrone.dev" width="44px background="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="blixenkrone.dev" width="44px" background="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="blixenkrone | LinkedIn" width="44px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />][linkedin]
 [<img alt="blixenkrone | Twitter" width="44px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />][twitter]
 <br />
