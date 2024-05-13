@@ -1,8 +1,8 @@
-### Hey I'm [Simon][website] 👋
+### Hi! I'm [Simon][website] 👋
 
 🏡 I’m from && living in Copenhagen.
 <br />
-🥅 Goals: Write even more code, learn even more stuff,contribute more to Open Source projects, do more of what I love.
+🥅 Goals: Write even more code, learn even more stuff, contribute more to OSS projects, do more of what I love.
 <br />
 ⚡ I also play bass and drums
 <br />
@@ -14,7 +14,7 @@
 [<img alt="blixenkrone | Twitter" width="44px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />][twitter]
 <br />
 
-[![Ask me about](https://skillicons.dev/icons?i=aws,bash,docker,dynamodb,git,githubactions,go,kubernetes,md,nginx,postgres,raspberrypi,js,ts,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,zig,ts,kubernetes,terraform,docker,linux,vim,aws,bash,git,githubactions,nginx,postgres,raspberrypi,githubactions,graphql,redis)](https://skillicons.dev)
 
 <br />
 
