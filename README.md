@@ -16,10 +16,7 @@
 <h3>:zap: Github Stats</h3>
 <h4><i>Not including private repo contribution</i></h4>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=blixenkrone&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true")]
-
 <img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" /> 
-<!-- <img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" /> -->
 <br />
 <br />
 
