@@ -17,7 +17,7 @@
 <h4><i>Not including private repo contribution</i></h4>
 <!--- <img align="left" alt="blixenkrone Github Stats" src="https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&hide_border=true" /> --->
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=foostan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=blixenkrone&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### 🏆 GitHub Profile Trophy
 
